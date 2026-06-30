@@ -1,6 +1,6 @@
-# 🎓 GuruGhar — Online Student Authentication Portal
+# 🎓 codewithyash — Online Student Authentication Portal
 
-GuruGhar is a PHP-based web application that simulates a real-world **online coaching platform**, built to demonstrate a complete, secure user authentication system — from registration to password recovery to account management. The project focuses on practical implementation of session handling, email-based OTP verification, and a clean, premium glassmorphism UI.
+codewithyash is a PHP-based web application that simulates a real-world **online coaching platform**, built to demonstrate a complete, secure user authentication system — from registration to password recovery to account management. The project focuses on practical implementation of session handling, email-based OTP verification, and a clean, premium glassmorphism UI.
 
 ---
 
